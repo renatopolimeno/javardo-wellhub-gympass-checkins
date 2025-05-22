@@ -16,6 +16,7 @@ const nextConfig: NextConfig = {
         port: '',
         pathname: '/**',
       },
+      // Add other image remote patterns if needed
     ],
   },
 };
